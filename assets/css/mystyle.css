@@ -1,0 +1,36 @@
+.home-overlay {
+    background-color: rgba(150, 20, 20, 0.3);
+}
+figure.effect-bubba {
+	background: rgba(150, 20, 20, 1);
+}
+
+.grid figure figcaption {
+	padding: 0px;
+}
+
+figure.effect-bubba p {
+	padding:20px 1em;
+	font-size: 15px;
+}
+
+figure.effect-bubba p span {
+	font-weight: 800;
+}
+
+.descMe {
+	color: black;
+	
+}
+
+.descBox {
+	background-color: #f5f5f5;
+}
+
+.familyDesc {
+	font-size: .6em;
+}
+
+.divider {
+	margin-top: 1em;
+}
